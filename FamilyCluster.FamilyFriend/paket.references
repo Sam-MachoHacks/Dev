@@ -1,0 +1,13 @@
+Akka
+Akka.Cluster
+Akka.Logger.NLog
+Akka.Remote
+Akka.Serialization.Wire
+Google.ProtocolBuffers
+Helios
+Newtonsoft.Json
+NLog
+System.Collections.Immutable
+Wire
+hyperion
+Akka.Serialization.Hyperion
