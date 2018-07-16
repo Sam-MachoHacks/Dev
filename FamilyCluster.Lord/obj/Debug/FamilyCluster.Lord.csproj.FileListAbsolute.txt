@@ -1,0 +1,10 @@
+Z:\Dev\demo\AkkaTddBootCamp-FamilyCluster\AkkaTddBootCamp-FamilyCluster\7-RemoteIntoCluster\FamilyCluster\FamilyCluster.Lord\bin\Debug\FamilyCluster.Lord.exe.config
+Z:\Dev\demo\AkkaTddBootCamp-FamilyCluster\AkkaTddBootCamp-FamilyCluster\7-RemoteIntoCluster\FamilyCluster\FamilyCluster.Lord\bin\Debug\FamilyCluster.Lord.exe
+Z:\Dev\demo\AkkaTddBootCamp-FamilyCluster\AkkaTddBootCamp-FamilyCluster\7-RemoteIntoCluster\FamilyCluster\FamilyCluster.Lord\bin\Debug\FamilyCluster.Lord.pdb
+Z:\Dev\demo\AkkaTddBootCamp-FamilyCluster\AkkaTddBootCamp-FamilyCluster\7-RemoteIntoCluster\FamilyCluster\FamilyCluster.Lord\obj\Debug\FamilyCluster.Lord.csprojResolveAssemblyReference.cache
+Z:\Dev\demo\AkkaTddBootCamp-FamilyCluster\AkkaTddBootCamp-FamilyCluster\7-RemoteIntoCluster\FamilyCluster\FamilyCluster.Lord\obj\Debug\FamilyCluster.Lord.Form1.resources
+Z:\Dev\demo\AkkaTddBootCamp-FamilyCluster\AkkaTddBootCamp-FamilyCluster\7-RemoteIntoCluster\FamilyCluster\FamilyCluster.Lord\obj\Debug\FamilyCluster.Lord.Properties.Resources.resources
+Z:\Dev\demo\AkkaTddBootCamp-FamilyCluster\AkkaTddBootCamp-FamilyCluster\7-RemoteIntoCluster\FamilyCluster\FamilyCluster.Lord\obj\Debug\FamilyCluster.Lord.csproj.GenerateResource.cache
+Z:\Dev\demo\AkkaTddBootCamp-FamilyCluster\AkkaTddBootCamp-FamilyCluster\7-RemoteIntoCluster\FamilyCluster\FamilyCluster.Lord\obj\Debug\FamilyCluster.Lord.csproj.CoreCompileInputs.cache
+Z:\Dev\demo\AkkaTddBootCamp-FamilyCluster\AkkaTddBootCamp-FamilyCluster\7-RemoteIntoCluster\FamilyCluster\FamilyCluster.Lord\obj\Debug\FamilyCluster.Lord.exe
+Z:\Dev\demo\AkkaTddBootCamp-FamilyCluster\AkkaTddBootCamp-FamilyCluster\7-RemoteIntoCluster\FamilyCluster\FamilyCluster.Lord\obj\Debug\FamilyCluster.Lord.pdb

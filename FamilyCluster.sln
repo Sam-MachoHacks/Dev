@@ -11,8 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyCluster.Brother", "Fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyCluster.Common", "FamilyCluster.Common\FamilyCluster.Common.csproj", "{17977547-44CF-463C-BD0E-E222E4507396}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyCluster.FamilyFriend", "FamilyCluster.FamilyFriend\FamilyCluster.FamilyFriend.csproj", "{BA951EC3-4143-42DF-AA82-7B12E461D041}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyCluster.Lord", "FamilyCluster.Lord\FamilyCluster.Lord.csproj", "{32F0228F-AD3C-4073-9938-B82A2BB74F4E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PaketMgmt", "PaketMgmt", "{3B27DF46-A5F4-4C86-9CAD-45BA0621D20C}"
@@ -43,10 +41,6 @@ Global
 		{17977547-44CF-463C-BD0E-E222E4507396}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17977547-44CF-463C-BD0E-E222E4507396}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17977547-44CF-463C-BD0E-E222E4507396}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BA951EC3-4143-42DF-AA82-7B12E461D041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BA951EC3-4143-42DF-AA82-7B12E461D041}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BA951EC3-4143-42DF-AA82-7B12E461D041}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BA951EC3-4143-42DF-AA82-7B12E461D041}.Release|Any CPU.Build.0 = Release|Any CPU
 		{32F0228F-AD3C-4073-9938-B82A2BB74F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{32F0228F-AD3C-4073-9938-B82A2BB74F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32F0228F-AD3C-4073-9938-B82A2BB74F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU

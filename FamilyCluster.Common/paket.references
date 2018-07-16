@@ -2,3 +2,6 @@ Akka
 Newtonsoft.Json
 System.Collections.Immutable
 Twilio
+
+Microsoft.Owin.SelfHost
+Microsoft.AspNet.WebApi.OwinSelfHost

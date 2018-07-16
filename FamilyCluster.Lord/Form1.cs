@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace FamilyCluster.Lord
@@ -19,7 +12,8 @@ namespace FamilyCluster.Lord
             InitializeComponent();
         }
 
-        string rootFolder = @"Z:\Dev\AkkaTddBootCamp-FamilyCluster\7-RemoteIntoCluster\FamilyCluster\";
+        private string rootFolder = @"Z:\Dev\demo\";
+
         private void button2_Click(object sender, EventArgs e)
         {
             Process.Start($@"{this.rootFolder}FamilyCluster.Brother\bin\Debug\FamilyCluster.Brother.exe");
@@ -38,7 +32,6 @@ namespace FamilyCluster.Lord
         private void button1_Click(object sender, EventArgs e)
         {
             Process.Start($@"{this.rootFolder}Lighthouse\bin\Debug\lighthouse.exe");
-
         }
     }
 }
